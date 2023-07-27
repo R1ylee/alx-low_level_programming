@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * _reverse_array - reverse array of integers
+ * reverse_array - reverses array of integers
  * @a: array
  * @n: number of elements of array
  * Reteun: void
